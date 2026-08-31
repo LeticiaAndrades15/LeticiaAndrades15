@@ -34,8 +34,7 @@ Currently exploring the intersection between:
 │  SOFTWARE DEVELOPMENT                    │
 │  AUTOMATION                              │
 │  BACKEND SYSTEMS                         │
-│  ALGORITHMS & DATA STRUCTURES             │
-│  CYBERSECURITY / CTF                     │
+│  ALGORITHMS & DATA STRUCTURES            │
 │  ARTIFICIAL INTELLIGENCE                 │
 └──────────────────────────────────────────┘
 ```
@@ -62,7 +61,6 @@ $ current_focus
 > Backend
 > Automation
 > Algorithms
-> CTF
 
 $ languages
 
@@ -88,19 +86,19 @@ $ status
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,python,mysql&theme=dark" />
 
 <br><br>
 
-### 🛠️ Development Tools
+###  Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 
 <br><br>
 
-### 🚀 Currently Exploring
+###  Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=python,docker,fastapi,selenium&theme=dark" />
 
@@ -164,6 +162,7 @@ Python
 **Arduino Automation System**
 
 A robotics project designed around different room modes and sensor-based automation.
+(in progress...)
 
 ```text
 Arduino
@@ -217,7 +216,7 @@ New experiments, university projects, automation systems and software prototypes
 [ NEW PROJECT DETECTED ]
 
 Status: BUILDING...
-Progress: ███████░░░ 70%
+Progress: ████░░░░░░ 40%
 ```
 
 <a href="https://github.com/LeticiaAndrades15?tab=repositories">
@@ -238,71 +237,24 @@ Progress: ███████░░░ 70%
 
 ```console
 ╔══════════════════════════════════════════════════════════════╗
-║                     CURRENT OBJECTIVES                      ║
+║                     CURRENT OBJECTIVES                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  [01] ████████████████████░░  Master Python                  ║
 ║  [02] ███████████████░░░░░░░  Backend Development            ║
-║  [03] █████████████░░░░░░░░░  Algorithms & Data Structures   ║
-║  [04] ███████████░░░░░░░░░░░  Capture The Flag               ║
-║  [05] ██████████░░░░░░░░░░░░  Cybersecurity                  ║
-║  [06] ████████░░░░░░░░░░░░░░  Build Better Projects          ║
-║  [07] ██████░░░░░░░░░░░░░░░░░  Learn AI                       ║
+║  [03] █████████████░░░░░░░░░  Build Better Projects          ║
+║  [04] ████████░░░░░░░░░░░░░░  Algorithms & Data Structures   ║
+║  [05] ██████░░░░░░░░░░░░░░░░  Learn AI                       ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  SYSTEM MESSAGE:                                             ║
-║  "The best way to predict the future is to build it."       ║
+║  "The best way to predict the future is to build it."        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `06 // GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/stats.svg"
-  width="48%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/top-langs.svg"
-  width="48%"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## `07 // ACTIVITY_MATRIX`
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/activity-graph.svg"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-
----
-
-## `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LeticiaAndrades15&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%">
-
-</div>
-
----
-
-## `09 // CONTRIBUTION_PROTOCOL`
+## `06 // CONTRIBUTION_PROTOCOL`
 
 <div align="center">
 
@@ -314,7 +266,7 @@ Progress: ███████░░░ 70%
 
 ---
 
-## `10 // CONNECT`
+## `07 // CONNECT`
 
 <div align="center">
 
@@ -324,13 +276,13 @@ Progress: ███████░░░ 70%
 
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/let%C3%ADcia-andrades-5011bb41b/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
 
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:leticiadasilvaandrades@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899"/>
 
@@ -345,13 +297,13 @@ Progress: ███████░░░ 70%
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                  SYSTEM STATUS: ONLINE                   ║
-║                                                          ║
-║       CODE  •  LEARN  •  BUILD  •  REPEAT               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+        ╔══════════════════════════════════════════════════════════╗
+        ║                                                          ║
+        ║                  SYSTEM STATUS: ONLINE                   ║
+        ║                                                          ║
+        ║       CODE  •  LEARN  •  BUILD  •  REPEAT                ║
+        ║                                                          ║
+        ╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>

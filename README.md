@@ -252,9 +252,24 @@ Progress: ████░░░░░░ 40%
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+## `06 // GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=A855F7&text_color=EC4899"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A855F7&currStreakLabel=EC4899&sideLabels=EC4899"
+/>
+
+</div>
 ---
 
-## `06 // CONTRIBUTION_PROTOCOL`
+## `07 // CONTRIBUTION_PROTOCOL`
 
 <div align="center">
 
@@ -266,7 +281,7 @@ Progress: ████░░░░░░ 40%
 
 ---
 
-## `07 // CONNECT`
+## `08 // CONNECT`
 
 <div align="center">
 

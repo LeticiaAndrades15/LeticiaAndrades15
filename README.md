@@ -257,7 +257,7 @@ Progress: ███████░░░ 70%
 
 ---
 
-# `06 // GITHUB_ANALYTICS`
+## `06 // GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -265,11 +265,7 @@ Progress: ███████░░░ 70%
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A855F7&currStreakLabel=EC4899&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
@@ -281,7 +277,11 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=EC4899&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=EC4899&line=A855F7&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 

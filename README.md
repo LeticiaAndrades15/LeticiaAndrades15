@@ -261,15 +261,16 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=A855F7&text_color=E5E7EB&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight" width="48%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight" width="48%">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A855F7&currStreakLabel=EC4899&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight" width="70%">
 
 </div>
+
 
 ---
 
@@ -277,13 +278,10 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=EC4899&line=A855F7&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15" width="100%">
 
 </div>
+
 
 ---
 
@@ -291,7 +289,7 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeticiaAndrades15&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LeticiaAndrades15&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%">
 
 </div>
 

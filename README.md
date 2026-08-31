@@ -261,16 +261,19 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight" width="48%">
+<img
+  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/stats.svg"
+  width="48%"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight" width="48%">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight" width="70%">
+<img
+  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/top-langs.svg"
+  width="48%"
+  alt="Top Languages"
+/>
 
 </div>
-
 
 ---
 

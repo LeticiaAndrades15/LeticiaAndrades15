@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:00d9ff&text=LETICIA%20ANDRADES&fontColor=00d9ff&fontSize=42&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AUTOMATION&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1A1025,100:EC4899&text=LETICIA%20ANDRADES&fontColor=EC4899&fontSize=42&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AUTOMATION&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+System+status%3A+ONLINE;%3E+Computer+Science+student;%3E+Building+software+%26+automation;%3E+Turning+ideas+into+code...;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+System+status%3A+ONLINE;%3E+Computer+Science+student;%3E+Building+software+%26+automation;%3E+Turning+ideas+into+code...;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=LeticiaAndrades15&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=LeticiaAndrades15&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -20,6 +20,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ### 👩‍💻 Hello, I'm Leticia
@@ -77,6 +78,7 @@ $ status
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -86,17 +88,21 @@ $ status
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,python,mysql&theme=dark" />
 
-### Development
+<br><br>
+
+### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 
-### Currently Exploring
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,selenium,playwright,docker,fastapi&theme=dark" />
+### 🚀 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=python,docker,fastapi,selenium&theme=dark" />
 
 </div>
 
@@ -126,15 +132,16 @@ $ status
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔎 Job Hunter
 
 **Automated Job Vacancy Miner**
 
-A Python-based project designed to collect and process job vacancy information, using browser automation and scraping techniques.
+A Python-based project designed to collect and process job vacancy information using browser automation and scraping techniques.
 
 ```text
 Python
@@ -145,12 +152,12 @@ Python
 ```
 
 <a href="https://github.com/LeticiaAndrades15">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Smart Room
 
@@ -167,7 +174,7 @@ Arduino
 ```
 
 <a href="https://github.com/LeticiaAndrades15">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -176,7 +183,7 @@ Arduino
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧩 CTF Lab
 
@@ -193,12 +200,12 @@ Algorithms
 ```
 
 <a href="https://github.com/LeticiaAndrades15">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ More Projects
 
@@ -214,12 +221,13 @@ Progress: ███████░░░ 70%
 ```
 
 <a href="https://github.com/LeticiaAndrades15?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_REPOSITORIES-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -253,9 +261,9 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=A855F7&text_color=E5E7EB&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"/>
 
 </div>
 
@@ -263,7 +271,7 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A855F7&currStreakLabel=EC4899&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
@@ -273,7 +281,7 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=EC4899&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -306,20 +314,28 @@ Progress: ███████░░░ 70%
 <div align="center">
 
 <a href="https://github.com/LeticiaAndrades15">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=EC4899"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+
 </a>
 
 <a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899"/>
+
 </a>
 
 </div>
 
 ---
+
+<br>
 
 <div align="center">
 
@@ -333,7 +349,9 @@ Progress: ███████░░░ 70%
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00d9ff,50:161b22,100:0d1117"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,50:A855F7,100:0D1117"/>
 
 <sub>⚡ Designed & built with code, curiosity and caffeine.</sub>
 

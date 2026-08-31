@@ -49,7 +49,7 @@ I enjoy understanding **how systems work behind the interface**, building projec
 ```console
 $ whoami
 
-> Leticia Andrade
+> Leticia Andrades
 
 $ education
 
@@ -90,7 +90,7 @@ $ status
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,python,mysql&theme=dark" />
 
 <br><br>
 
@@ -151,7 +151,7 @@ Python
  └── Telegram Integration
 ```
 
-<a href="https://github.com/LeticiaAndrades15">
+<a href="https://github.com/LeticiaAndrades15/minerar-vagas">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -185,21 +185,21 @@ Arduino
 
 <td width="50%" valign="top">
 
-### 🧩 CTF Lab
+### 🐾 Veterinary Clinic System
 
-**Capture The Flag Training**
+**Java — Object-Oriented Programming**
 
-A personal environment for practicing programming logic, cybersecurity concepts, problem solving and algorithmic thinking.
+Academic project developed for **Programação de Computadores 2 (PC2)**, focused on building a veterinary clinic management system using Java and object-oriented programming concepts.
 
 ```text
-Algorithms
- ├── Logic
- ├── Python
- ├── C
- └── Problem Solving
+Java
+ ├── Object-Oriented Programming
+ ├── Classes & Objects
+ ├── Data Management
+ └── Software Architecture
 ```
 
-<a href="https://github.com/LeticiaAndrades15">
+<a href="https://github.com/LeticiaAndrades15/pc2">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

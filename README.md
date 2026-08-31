@@ -1,16 +1,340 @@
-## Hi there 👋
+# `< SYSTEM ONLINE />`
 
-<!--
-**LeticiaAndrades15/LeticiaAndrades15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:00d9ff&text=LETICIA%20ANDRADES&fontColor=00d9ff&fontSize=42&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AUTOMATION&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+System+status%3A+ONLINE;%3E+Computer+Science+student;%3E+Building+software+%26+automation;%3E+Turning+ideas+into+code...;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=LeticiaAndrades15&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+## `01 // ABOUT_ME`
+
+<table>
+<tr>
+<td width="55%">
+
+### 👩‍💻 Hello, I'm Leticia
+
+I'm a **Computer Science student** passionate about technology, software development and solving problems through code.
+
+Currently exploring the intersection between:
+
+```text
+┌──────────────────────────────────────────┐
+│  SOFTWARE DEVELOPMENT                    │
+│  AUTOMATION                              │
+│  BACKEND SYSTEMS                         │
+│  ALGORITHMS & DATA STRUCTURES             │
+│  CYBERSECURITY / CTF                     │
+│  ARTIFICIAL INTELLIGENCE                 │
+└──────────────────────────────────────────┘
+```
+
+I enjoy understanding **how systems work behind the interface**, building projects from scratch and constantly challenging myself with new technologies.
+
+</td>
+
+<td width="45%">
+
+```console
+$ whoami
+
+> Leticia Andrade
+
+$ education
+
+> Computer Science
+> IFB
+
+$ current_focus
+
+> Python
+> Backend
+> Automation
+> Algorithms
+> CTF
+
+$ languages
+
+> C
+> Java
+> Python
+> SQL
+
+$ status
+
+> ████████████████ 100%
+> SYSTEM ONLINE
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02 // TECH_STACK`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,python,sql&theme=dark" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=python,selenium,playwright,docker,fastapi&theme=dark" />
+
+</div>
+
+---
+
+## `03 // TOOLBOX`
+
+<div align="center">
+
+|      Category      |                Tools               |
+| :----------------: | :--------------------------------: |
+|       💻 IDE       |               VS Code              |
+| 🔀 Version Control |            Git / GitHub            |
+|      🐍 Python     | Playwright / Requests / Automation |
+|       🌐 API       |    REST / HTTP / JSON / Postman    |
+|    🗄️ Database    |                 SQL                |
+|   🐧 Environment   |           Linux / Windows          |
+|     🧪 Testing     |               Pytest               |
+|    🤖 Automation   |  Browser Automation / Web Scraping |
+
+</div>
+
+---
+
+## `04 // PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔎 Job Hunter
+
+**Automated Job Vacancy Miner**
+
+A Python-based project designed to collect and process job vacancy information, using browser automation and scraping techniques.
+
+```text
+Python
+ ├── Playwright
+ ├── Web Scraping
+ ├── Data Processing
+ └── Telegram Integration
+```
+
+<a href="https://github.com/LeticiaAndrades15">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Smart Room
+
+**Arduino Automation System**
+
+A robotics project designed around different room modes and sensor-based automation.
+
+```text
+Arduino
+ ├── Sensors
+ ├── LEDs
+ ├── Buttons
+ └── Automation Logic
+```
+
+<a href="https://github.com/LeticiaAndrades15">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧩 CTF Lab
+
+**Capture The Flag Training**
+
+A personal environment for practicing programming logic, cybersecurity concepts, problem solving and algorithmic thinking.
+
+```text
+Algorithms
+ ├── Logic
+ ├── Python
+ ├── C
+ └── Problem Solving
+```
+
+<a href="https://github.com/LeticiaAndrades15">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⚙️ More Projects
+
+This space is constantly evolving.
+
+New experiments, university projects, automation systems and software prototypes will appear here.
+
+```text
+[ NEW PROJECT DETECTED ]
+
+Status: BUILDING...
+Progress: ███████░░░ 70%
+```
+
+<a href="https://github.com/LeticiaAndrades15?tab=repositories">
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `05 // CURRENT_MISSION`
+
+```console
+╔══════════════════════════════════════════════════════════════╗
+║                     CURRENT OBJECTIVES                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] ████████████████████░░  Master Python                  ║
+║  [02] ███████████████░░░░░░░  Backend Development            ║
+║  [03] █████████████░░░░░░░░░  Algorithms & Data Structures   ║
+║  [04] ███████████░░░░░░░░░░░  Capture The Flag               ║
+║  [05] ██████████░░░░░░░░░░░░  Cybersecurity                  ║
+║  [06] ████████░░░░░░░░░░░░░░  Build Better Projects          ║
+║  [07] ██████░░░░░░░░░░░░░░░░░  Learn AI                       ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  SYSTEM MESSAGE:                                             ║
+║  "The best way to predict the future is to build it."       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `06 // GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAndrades15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAndrades15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LeticiaAndrades15&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
+
+</div>
+
+---
+
+## `07 // ACTIVITY_MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `08 // ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LeticiaAndrades15&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+
+</div>
+
+---
+
+## `09 // CONTRIBUTION_PROTOCOL`
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+---
+
+## `10 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/LeticiaAndrades15">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+
+<a href="mailto:SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                  SYSTEM STATUS: ONLINE                   ║
+║                                                          ║
+║       CODE  •  LEARN  •  BUILD  •  REPEAT               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00d9ff,50:161b22,100:0d1117"/>
+
+<sub>⚡ Designed & built with code, curiosity and caffeine.</sub>
+
+</div>

@@ -281,7 +281,11 @@ Progress: ███████░░░ 70%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAndrades15" width="100%">
+<img
+  src="https://raw.githubusercontent.com/LeticiaAndrades15/LeticiaAndrades15/output/activity-graph.svg"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
